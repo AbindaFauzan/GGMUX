@@ -17,7 +17,7 @@ $ gem install figlet
 $ git clone https://github.com/muhammadfathul/GGMUX
 $ cd GGMUX
 $ bash ggmux.sh
-'''
+```
 
 
 <h3>Demo</h3>
