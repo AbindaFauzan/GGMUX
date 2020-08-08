@@ -14,7 +14,7 @@ $ apt install cowsay
 $ apt install ruby
 $ apt install figlet
 $ gem install figlet
-$ git clone https://github.com/muhammadfathul/GGMUX
+$ git clone https://github.com/ArroKM/GGMUX
 $ cd GGMUX
 $ bash ggmux.sh
 ```
